@@ -1,0 +1,13 @@
+.picture img{
+        display: block;
+        width:20%;
+        height: auto;
+    }
+
+.picture img{
+    width: 450px;
+    height: 500px;
+    margin-top: 1.5em;
+    margin-left: 1.5em;
+    float: left;
+}
